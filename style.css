@@ -158,3 +158,8 @@
       flex-direction: column;
     }
   }
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
