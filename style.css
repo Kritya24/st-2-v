@@ -22,17 +22,12 @@
     padding: 0% 30%;
   }
 
-  .BG{
-    height: 680px;
-    background-color:  #EAF6F6;
-    text-align: center;
-}
 
 
 .container{
     max-width: 700px;
     width: 100%;
-    background-color: #fff;
+    background-color:  #EAF6F6;
     padding: 25px 30px;
     border-radius: 5px;
     box-shadow: 0 5px 10px rgba(0,0,0,0.15);
