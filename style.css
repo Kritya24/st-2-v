@@ -22,7 +22,10 @@
     padding: 0% 30%;
   }
 
-
+.img{
+    background-color: #71b7e6;
+    height: 1000px;
+}
 
 .container{
     max-width: 700px;
